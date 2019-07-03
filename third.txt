@@ -1,3 +1,6 @@
 "trying to merge into branch"
 "That's all"
 "Added new line"
+"Added second line"
+
+
